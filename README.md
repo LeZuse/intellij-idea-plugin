@@ -1,5 +1,5 @@
 # IntelliJ IDEA plugin
-A little experiment ;)
+Example project for experimenting with the plugin system
 
 # Requirements
 - IntelliJ IDEA Community Edition source code
