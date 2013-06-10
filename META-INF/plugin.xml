@@ -1,8 +1,8 @@
 <idea-plugin version="2">
-  <id>com.yourcompany.unique.plugin.id</id>
-  <name>Plugin display name here</name>
-  <version>1.0</version>
-  <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+  <id>net.abdoc.experiments.intellij.plugin</id>
+  <name>IntelliJ IDEA plugin</name>
+  <version>0.1</version>
+  <vendor email="team@abdoc.net" url="http://abdoc.net">abdoc</vendor>
 
   <description><![CDATA[
       Enter short description for your plugin here.<br>
@@ -19,10 +19,9 @@
   <idea-version since-build="107.105"/>
 
   <!-- please see http://confluence.jetbrains.net/display/IDEADEV/Plugin+Compatibility+with+IntelliJ+Platform+Products
-       on how to target different products -->
-  <!-- uncomment to enable plugin in all products
+       on how to target different products-->
   <depends>com.intellij.modules.lang</depends>
-  -->
+
 
   <application-components>
     <!-- Add your application components here -->
