@@ -1,8 +1,8 @@
 <idea-plugin version="2">
-  <id>net.abdoc.experiments.intellij.plugin</id>
+  <id>com.example.intellij.plugin</id>
   <name>IntelliJ IDEA plugin</name>
   <version>0.1</version>
-  <vendor email="team@abdoc.net" url="http://abdoc.net">abdoc</vendor>
+  <vendor email="mail@example.com" url="http://example.com">Company</vendor>
 
   <description><![CDATA[
       Enter short description for your plugin here.<br>
@@ -35,7 +35,7 @@
   <actions>
     <group id="MyPlugin.SampleMenu" text="_Sample Menu" description="Sample menu">
       <add-to-group group-id="MainMenu" anchor="last"  />
-      <action id="Myplugin.Textboxes" class="net.abdoc.experiments.intellij.plugin.TestA" text="Text _Boxes" description="A test menu item" />
+      <action id="Myplugin.Textboxes" class="com.example.intellij.plugin.TestA" text="Text _Boxes" description="A test menu item" />
     </group>
 
   </actions>

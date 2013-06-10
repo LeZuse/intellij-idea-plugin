@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package net.abdoc.experiments.intellij.plugin;
+package com.example.intellij.plugin;
 
 import com.intellij.openapi.actionSystem.AnAction;
 import com.intellij.openapi.actionSystem.AnActionEvent;
